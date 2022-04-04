@@ -1,5 +1,6 @@
 ## 2022
 
+- [2022 - April](pages/2022/2022-04.md)
 - [2022 - March](pages/2022/2022-03.md)
 - [2022 - February](pages/2022/2022-02.md)
 - [2022 - January](pages/2022/2022-01.md)
